@@ -1,4 +1,4 @@
-- 👋 Hello there!My name is Evangelia Tsakanika and i'm an undergraduate student at the department of Computer science and Biomedical informatics 
+- 👋 Hello there!My name is Evangelia Tsakanika and i'm an undergraduate student at the department of Computer science and Biomedical Informatics (http://dib.uth.gr/) 
 at University of Thessaly in Lamia, Greece.
 - 👀 I’m interested in bionanotechnology, biomedical engineering, neuroengineering and bioinformatics.
 - 🌱 I’m currently learning Java and Python and i'm already familiar with C, HTML, SQL and UNIX.
