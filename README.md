@@ -4,8 +4,8 @@ at the University of Thessaly in Lamia, Greece.
 - 🚀 **Technical Skills**: Python, C, Java, Matlab, Arduino.
 
 - 📩 How to reach me:
-- Email: evangelia.tsakanika@gmail.com | etsakanika@uth.gr
-- LinkedIn: www.linkedin.com/in/evangelia-tsakanika/
+     - Email: evangelia.tsakanika@gmail.com | etsakanika@uth.gr
+     - LinkedIn: www.linkedin.com/in/evangelia-tsakanika/
 
 <!---
 etsakanika/etsakanika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
