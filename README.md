@@ -1,7 +1,7 @@
-- 👋 Hello there! My name is **Evangelia Tsakanika** and I am a final year undergraduate student at the Department of Computer science and Biomedical Informatics (http://dib.uth.gr/) 
-at the University of Thessaly in Lamia, Greece.
-- 💡 My research interests include **Neurophysiology, Neuroscience, Machine Learning, Embedded Computer Systems in Biomedicine and Bioengineering**.
-- 🚀 **Technical Skills**: Python, C, Java, Matlab, Arduino.
+- 👋 Hello there! My name is **Evangelia Tsakanika** and I am a recent graduate student of the Department of Computer science and Biomedical Informatics (http://dib.uth.gr/) 
+at University of Thessaly in Lamia, Greece and an aspiring **researcher and tech professional**.
+- 💡 My research interests include **Machine Learning, AI, Data Science, Embedded Computer Systems in Biomedicine and Bioengineering**.
+- 🚀 **Technical Skills**: Python, SQL, C, Java, Matlab, Arduino.
 
 - 📩 How to reach me:
      - Email: evangelia.tsakanika@gmail.com | etsakanika@uth.gr
