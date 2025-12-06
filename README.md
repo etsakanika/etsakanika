@@ -1,5 +1,5 @@
 - 👋 Hello there! My name is **Evangelia Tsakanika**, I am a master student in Artificial Intelligence and Data Science and an aspiring **researcher and tech professional**.
-- 💡 My research interests include **Machine Learning, AI, Data Science, Embedded Computer Systems in Biomedicine and Bioengineering**.
+- 💡 My research interests include **Machine Learning, AI, Data Science, Embedded Computing Systems and Bioengineering**.
 - 🚀 **Technical Skills**: Python, SQL, C, Java, Matlab, Arduino, Git and Docker.
 
 - 📩 How to reach me:
