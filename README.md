@@ -3,7 +3,7 @@
 - 🚀 **Technical Skills**: Python, SQL, C, Java, Matlab, Arduino, Git and Docker.
 
 - 📩 How to reach me:
-     - Email: evangelia.tsakanika@gmail.com | etsakanika@uth.gr
+     - Email: evangelia.tsakanika@gmail.com
      - LinkedIn: www.linkedin.com/in/evangelia-tsakanika/
 
 <!---
